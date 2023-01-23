@@ -1,0 +1,33 @@
+[
+
+  {
+    "title":"Kalça Egzersizi-1",
+    "time" :"45 Saniye",
+    "thumbnail":"assets/kalca1.png",
+    "videoUrl":"assets/video/bacak.mp4"
+  },
+  {
+    "title":"Kalça Egzersizi-2",
+    "time" :"45 Saniye",
+    "thumbnail":"assets/kalca2.png",
+    "videoUrl":"assets/video/bacak.mp4"
+  },
+  {
+    "title":"Kalça Egzersizi-3",
+    "time" :"45 Saniye",
+    "thumbnail":"assets/kalca3.png",
+    "videoUrl":"assets/video/bacak.mp4"
+  },
+  {
+    "title":"Kalça Egzersizi-4",
+    "time" :"45 Saniye",
+    "thumbnail":"assets/kalca4.png",
+    "videoUrl":"assets/video/bacak.mp4"
+  },
+  {
+    "title":"Kalça Egzersizi-5",
+    "time" :"45 Saniye",
+    "thumbnail":"assets/kalca5.png",
+    "videoUrl":"assets/video/bacak.mp4"
+  }
+]

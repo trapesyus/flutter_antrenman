@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Kalça",
+    "img": "assets/kalca1.png"
+  },
+  {
+    "title": "Karın",
+    "img": "assets/kalca2.png"
+  },
+  {
+    "title": "Bacak",
+    "img": "assets/kalca3.png"
+  },
+  {
+    "title": "Kol",
+    "img": "assets/kalca4.png"
+  },
+  {
+    "title": "Göğüs",
+    "img": "assets/kalca5.png"
+  },
+  {
+    "title": "Sırt",
+    "img": "assets/kalca6.png"
+  },
+  {
+    "title": "Omuz",
+    "img": "assets/kalca7.png"
+  }
+]
